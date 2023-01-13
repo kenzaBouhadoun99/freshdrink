@@ -1,0 +1,37 @@
+body{
+    background-color: #FAFAFA;
+    margin-top: 30px;
+    } 
+input , select{ 
+    border-radius: 20px;
+    border-color: white;
+    margin-left: 100px;
+    width: 400px;
+    height: 39px;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+
+}  
+
+label {
+    margin-left: 60px;
+   
+}
+#ville , #cp {
+    width: 200px;
+}
+
+#submit{
+position: absolute;
+width: 195px;
+height: 39px;
+left: 437px;
+top: 795px;
+
+text-align: center;
+background: #60B568;
+box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+}
+
+.erreur{
+    color:rgb(255,0,0);
+}

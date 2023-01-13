@@ -1,0 +1,44 @@
+
+.panier{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.link{
+    position: absolute;
+    width: 300px;
+    height: 290px;
+    left: 661px;
+    top: 50px;
+    }
+    
+.panier img{
+    width: 40px;
+    padding: 8px 0;
+}
+
+.panier section{
+    width: 70%;
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 6px;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    letter-spacing: 2px;
+    font-size:13px;
+}
+th{
+    padding:10px 0;
+    font-weight: 400;
+}
+td{
+    border-top: 0.5px solid #999;
+    text-align: center;
+    color: black;
+}
+tr{
+border-bottom: 0.5px solid #999;
+}
